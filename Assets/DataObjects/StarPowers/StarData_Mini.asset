@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96814221c1c4c194ca47b3eee6989143, type: 3}
+  m_Name: StarData_Mini
+  m_EditorClassIdentifier: 
+  id: starmini
+  displayName: Mini Stars
+  uiIcon: {fileID: 21300000, guid: db59e846c5c3ac44581aeedc433fc186, type: 3}
+  worldCharacterPrefab: {fileID: 0}
